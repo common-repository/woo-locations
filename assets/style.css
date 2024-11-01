@@ -1,0 +1,17 @@
+.wl-select-all, .wl-select-none {
+  text-decoration: none;
+  border-bottom: 1px dashed; }
+
+.wl-menu {
+  padding-top: 0; }
+  .wl-menu input[type=checkbox].item-enable {
+    float: left;
+    margin-top: 2px; }
+  .wl-menu .menu-item-handle .item-title {
+    float: left;
+    margin-right: 0;
+    margin-left: 0.5em; }
+  .wl-menu .menu-item-handle {
+    cursor: pointer; }
+  .wl-menu .menu-item--obsolete .menu-item-title {
+    color: grey; }

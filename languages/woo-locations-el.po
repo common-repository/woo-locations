@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Locations Pack 1.4.11\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: locations/cy.php:6
+msgid "Famagusta"
+msgstr "Αμμόχωστος"
+
+#: locations/cy.php:7
+msgid "Kyrenia"
+msgstr "Κερύνεια"
+
+#: locations/cy.php:8
+msgid "Limassol"
+msgstr "Λεμεσός"
+
+#: locations/cy.php:9
+msgid "Larnaca"
+msgstr "Λάρνακα"
+
+#: locations/cy.php:10
+msgid "Nicosia"
+msgstr "Λευκωσία"
+
+#: locations/cy.php:11
+msgid "Paphos"
+msgstr "Πάφος"
